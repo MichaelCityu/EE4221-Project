@@ -32,5 +32,6 @@
     $pw = '';
     error_log($e);
   }
+  var_dump($e);
 
 ?>
